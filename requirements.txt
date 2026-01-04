@@ -1,0 +1,23 @@
+# Requirements for Document Manager Application
+
+# Core dependencies
+streamlit>=1.31.0
+qdrant-client>=1.7.0
+torch>=2.0.0
+pdf2image>=1.16.3
+PyPDF2>=3.0.0
+Pillow>=10.0.0
+python-dotenv>=1.0.0
+tqdm>=4.65.0
+
+# ColPali and related
+colpali-engine>=0.2.0
+transformers>=4.36.0
+
+# Additional utilities
+numpy>=1.24.0
+
+
+
+
+
